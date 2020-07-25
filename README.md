@@ -19,7 +19,7 @@ This project is the owner side of [NEOMED](https://github.com/ashandilya/NEOMED)
 
 #### Mind Map
 
-![Mind Map](https://ibb.co/n1V2zKh)
+![Mind Map]()
 
 
 
