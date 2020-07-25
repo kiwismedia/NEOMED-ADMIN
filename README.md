@@ -17,6 +17,9 @@ This project is the owner side of [NEOMED](https://github.com/ashandilya/NEOMED)
 - API Design
 - Backend Development
 
+#### Mind Map
+
+[Mind Map](https://ibb.co/n1V2zKh)
 
 
 
