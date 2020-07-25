@@ -19,7 +19,7 @@ This project is the owner side of [NEOMED](https://github.com/ashandilya/NEOMED)
 
 ## Concept Map
 
-![Concept Map](https://ibb.co/n1V2zKh)
+![](https://ibb.co/n1V2zKh)
 
 
 
