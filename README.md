@@ -21,6 +21,10 @@ This project is the owner side of [NEOMED](https://github.com/ashandilya/NEOMED)
 
 ![](https://i.ibb.co/njs9dYF/Concept-Map.jpg)
 
+## User Flow
+
+![](https://i.ibb.co/891cbkV/NEOMED-ADMIN.jpg)
+
 
 
 
